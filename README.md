@@ -21,12 +21,6 @@
 - Experience with enterprise architecture, technical strategy, and team leadership
 - Proficient in multiple technology stacks across different domains
 ---
-## 📊 GitHub Activity
-<div align="center">
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetgulpolat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&rank_icon=github)](https://github.com/mehmetgulpolat)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetgulpolat&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&text_color=c9d1d9)](https://github.com/mehmetgulpolat)
-</div>
----
 ## 🔗 Connect
 Open to discussing architecture challenges, technical collaborations, and mentoring opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-gulpolat/)
